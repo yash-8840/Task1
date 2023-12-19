@@ -1,14 +1,14 @@
 # Task1
-#Bash Scipt
+# Bash Scipt
 There is a customer who came to you with a problem to have a custom linux command for his operations. Your task is to understand the problem and create a linux command via bash script as per the instructions.
 
 Usage: internsctl 
 
-#Option
+# Option
 --help Show help information
 --version Show command version
 
-#Commands
+# Commands
 cpu getinfo Get CPU information
 memory getinfo Get memory information
 user create Create a new user
